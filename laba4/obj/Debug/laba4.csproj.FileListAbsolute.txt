@@ -1,0 +1,11 @@
+C:\dev\graphics\laba4\laba4\bin\Debug\laba4.exe.config
+C:\dev\graphics\laba4\laba4\bin\Debug\laba4.exe
+C:\dev\graphics\laba4\laba4\bin\Debug\laba4.pdb
+C:\dev\graphics\laba4\laba4\obj\Debug\laba4.csproj.AssemblyReference.cache
+C:\dev\graphics\laba4\laba4\obj\Debug\laba4.csproj.SuggestedBindingRedirects.cache
+C:\dev\graphics\laba4\laba4\obj\Debug\laba4.Properties.Resources.resources
+C:\dev\graphics\laba4\laba4\obj\Debug\laba4.csproj.GenerateResource.cache
+C:\dev\graphics\laba4\laba4\obj\Debug\laba4.csproj.CoreCompileInputs.cache
+C:\dev\graphics\laba4\laba4\obj\Debug\laba4.exe
+C:\dev\graphics\laba4\laba4\obj\Debug\laba4.pdb
+C:\dev\graphics\laba4\laba4\obj\Debug\laba4.Laba3.resources
